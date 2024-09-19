@@ -13,3 +13,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - run: echo "Bye World"
+  my-firth-job:
+    runs-on: macos-latest
+    steps:
+      - run: echo "Bye World"
