@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Use Workflow Input
         run: |
-          echo "DEBUG: ${{ vars.debug }}"
+#          echo "DEBUG: ${{ vars.debug }}"
